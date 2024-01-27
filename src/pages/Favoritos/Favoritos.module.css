@@ -2,3 +2,9 @@
     display: flex;
     justify-content: space-around;
 }
+
+iframe {
+    height: 80vh;
+    width: 560px;
+
+}
